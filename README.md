@@ -3,3 +3,4 @@
 
 Este es un repositorio para la materia de sistemas de control biomédico - UTN:
 - Manejo de motores mediante la terminal virtual
+- Manejo de servomotores
