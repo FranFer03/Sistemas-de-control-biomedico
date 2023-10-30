@@ -1,0 +1,4 @@
+pedalcarscania.database.windows.net
+PedalCar_Time
+franfer03
+Oceano_03
